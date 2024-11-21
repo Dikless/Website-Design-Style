@@ -1,0 +1,131 @@
+
+body {
+  background-color: #D3D3D3;
+  font-family: 'Geist Mono';
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #000000;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  font-size: 0; 
+  text-align: center; 
+}
+
+.color-panel {
+  display: inline-block;
+  width: 20%;
+  vertical-align: top; 
+  margin: 0; 
+  min-height: 100px; 
+  font-size: initial; 
+  text-align: center;
+}
+
+.cadet-blue {
+  background-color: #5F9EA0;
+}
+
+.cadmium-green {
+  background-color: #097969;
+}
+
+.Eucalyptus {
+  background-color: #5F8575;
+}
+
+.Jade {
+  background-color: #00A36C;
+}
+
+.light-gray {
+  background-color: #D3D3D3;
+  border: 2px solid;
+  border-color: black;
+  box-sizing: border-box;
+}
+
+.p-special {
+  text-align: left;
+  background-color: #D3D3D3;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+  font-size: auto;
+}
+
+.regular {
+  font-style: normal;
+  font-size: auto;
+}
+.italic {
+  font-style: italic;
+  font-size: auto;
+}
+
+.bold {
+  font-weight: 700;
+  font-size: auto;
+}
+
+.geist-mono {
+  font-family: 'Geist Mono';
+  font-size: auto;
+}
+
+.open-sans {
+  font-family: 'Open Sans';
+  font-size: auto;
+}
+
+.host-grotesk {
+  font-family: 'Host Grotesk';
+  font-size: auto;
+}
+
+.dm-sans {
+  font-family: 'DM Sans';
+  font-size: auto;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: auto;
+  font-family: 'Geist Mono';
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: auto;
+  font-family: 'Open Sans';
+}
+
+.text-panel h3 {
+  font-weight: 500;
+  font-size: auto;
+  font-family: 'Host Grotesk';
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: auto;
+  font-family: 'DM Sans';
+}
+
+h1, h2 {
+  text-align: center;
+  background-color: #C0C0C0;
+}
+
+.font-label {
+  font-size: auto;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #00A36C;
+}
